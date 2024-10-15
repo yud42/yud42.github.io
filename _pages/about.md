@@ -13,7 +13,7 @@ I am a final-year Ph.D. student in the Department of Computer Science at the Uni
 
 My research focuses on machine learning systems & accelerators, with a particular emphasis on advancing deep graph learning techniques. I explore how to efficiently and securely deploy graph neural networks (GNNs) across diverse platforms, addressing the challenges of their scalability, efficiency, and robustness in both inference and training.
 
-<p style="color: aquamarine; font-style: italic;">
+<p style="color: MediumSeaGreen; font-style: italic;">
   I am actively seeking tenure-track faculty positions and research scientist positions in industry. Please kindly reach out to me regarding any potential opportunities.
 </p>
 
