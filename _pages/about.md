@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Welcome to Yue Dai's Homepage"
-excerpt: ""
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
