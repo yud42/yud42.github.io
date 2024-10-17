@@ -21,19 +21,13 @@ My research focuses on machine learning systems & accelerators, with a particula
 
 News
 ======
-_[10/2024]_ One paper is under major revision in **ASPLOS2025**.
-  
-_[05/2024]_ Passed Doctoral Proposal Defense on ***"Towards Efficient and Robust Deployment of Graph Deep Learning"***
-  
-_[08/2023]_ One paper is accepted by **ICCD2023**. Thanks to all the collaborators!
-
-_[01/2023]_ One paper is accepted by **ICLR2023** _(spotlight)_. Thanks to all the collaborators!
-
-_[10/2022]_ One paper is accepted by **HPCA2023**. Thanks to all the collaborators!
-
-_[08/2022]_ One paper is accepted by **ArgMining2022**. Thanks to all the collaborators!
-
-_[06/2022]_ One paper is accepted by **CCF Transactions on High Performance Computing**. Thanks to all the collaborators!
+_[10/2024]_ One paper is under major revision in **ASPLOS2025**.\
+_[05/2024]_ Passed Doctoral Proposal Defense on ***"Towards Efficient and Robust Deployment of Graph Deep Learning".***\
+_[08/2023]_ One paper is accepted by **ICCD2023**. Thanks to all the collaborators!\
+_[01/2023]_ One paper is accepted by **ICLR2023** _(spotlight)_. Thanks to all the collaborators!\
+_[10/2022]_ One paper is accepted by **HPCA2023**. Thanks to all the collaborators!\
+_[08/2022]_ One paper is accepted by **ArgMining2022**. Thanks to all the collaborators!\
+_[06/2022]_ One paper is accepted by **CCF Transactions on High Performance Computing**. Thanks to all the collaborators!\
 
 Publications
 ======
