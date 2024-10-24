@@ -3,6 +3,7 @@ permalink: /
 title: "Welcome to Yue Dai's Homepage"
 excerpt: "About Me"
 author_profile: true
+sitemap: false
 redirect_from: 
   - /about/
   - /about.html
