@@ -32,6 +32,6 @@ sitemap: false
 
 - **Yue Dai**, Xulong Tang, Youtao Zhang. Cascade: A Dependency‑Aware Efficient Training Framework for Temporal Graph Neural Networks. (Major Revision, 2025 ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)).
 
-- **Yue Dai***, Liang Liu*, Xulong Tang, Youtao Zhang, Jun Yang. MemStranding: Adversarial attacks on temporal graph neural networks.
+- **Yue Dai***, Liang Liu\*, Xulong Tang, Youtao Zhang, Jun Yang. MemStranding: Adversarial attacks on temporal graph neural networks.
 
 - **Yue Dai**, Sheng Li, Geng Yuan, Yanzhi Wang, Xulong Tang, Youtao Zhang. BGM: Branchy Graph Matching Network for Adaptive and Generalizable Multi‑scope Graph Similarity Learning.
