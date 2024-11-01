@@ -10,8 +10,6 @@ sitemap: false
 
 \* *co‑first author*
 
-### Published
-
 - **Yue Dai**, Youtao Zhang, Xulong Tang. 2023. CEGMA: Coordinated elastic graph matching acceleration for graph matching networks. 2023 IEEE International Symposium on High‑Performance Computer Architecture (HPCA).
 
 - **Yue Dai**, Xulong Tang, Youtao Zhang. 2023. FlexGM: An Adaptive Runtime System to Accelerate Graph Matching Networks on GPUs. 2023 IEEE 41st International Conference on Computer Design (ICCD).
@@ -28,10 +26,3 @@ sitemap: false
 
 - Xuejun Liu, Haiying Luan, Wenbai Chen, **Yue Dai**, Jiandong Liu, Bo Lan. 2014. Electrical nonlinearity pre‑compensation for CO‑OFDM system. Optik, 125(2), 616‑619.
 
-### Under Peer Review
-
-- **Yue Dai**, Xulong Tang, Youtao Zhang. Cascade: A Dependency‑Aware Efficient Training Framework for Temporal Graph Neural Networks. (Major Revision, 2025 ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)).
-
-- **Yue Dai***, Liang Liu\*, Xulong Tang, Youtao Zhang, Jun Yang. MemStranding: Adversarial attacks on temporal graph neural networks.
-
-- **Yue Dai**, Sheng Li, Geng Yuan, Yanzhi Wang, Xulong Tang, Youtao Zhang. BGM: Branchy Graph Matching Network for Adaptive and Generalizable Multi‑scope Graph Similarity Learning.
