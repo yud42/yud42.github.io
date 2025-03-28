@@ -12,6 +12,8 @@ sitemap: false
 
 - **Yue Dai**, Xulong Tang, Youtao Zhang. 2025. Cascade: A Dependency‑Aware Efficient Training Framework for Temporal Graph Neural Network. 2025 ACM International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS'2025**).
 
+- Li, Yingheng, **Yue Dai**, Aditya Pawar, Rongchao Dong, Jun Yang, Youtao Zhang, and Xulong Tang. 2025. Using Reinforcement Learning to Guide Graph State Generation for Photonic Quantum Computers. The 52nd International Symposium on Computer Architecture (**ISCA'2025**).
+
 - Sheng Li, Qitao Tan, **Yue Dai**, Zhenglun Kong, Tianyu Wang, Jun Liu, Ao Li, Ninghao Liu, Yufei Ding, Xulong Tang, Geng Yuan. 2025. Mutual Effort for Efficiency: A Similarity‑based Token Pruning for Vision Transformers in Self‑Supervised Learning. The Thirteenth International Conference on Learning Representations (**ICLR'2025**).
 
 - **Yue Dai**, Youtao Zhang, Xulong Tang. 2023. CEGMA: Coordinated elastic graph matching acceleration for graph matching networks. 2023 IEEE International Symposium on High‑Performance Computer Architecture (**HPCA'2023**).
