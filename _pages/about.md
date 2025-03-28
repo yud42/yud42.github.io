@@ -22,6 +22,7 @@ My research interests center on machine learning systems and accelerators, with 
 
 News
 ======
+_[01/2025]_ One paper is accepted by **ISCA2025**. Thanks to all the collaborators!\
 _[01/2025]_ One paper is accepted by **ASPLOS2025**. Thanks to all the collaborators!\
 _[01/2025]_ One paper is accepted by **ICLR2025**. Thanks to all the collaborators!\
 _[08/2023]_ One paper is accepted by **ICCD2023**. Thanks to all the collaborators!\
@@ -36,6 +37,8 @@ Publications
 \* *co‑first author*
 
 - **Yue Dai**, Xulong Tang, Youtao Zhang. 2025. Cascade: A Dependency‑Aware Efficient Training Framework for Temporal Graph Neural Network. 2025 ACM International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS'2025**).
+
+- Li, Yingheng, **Yue Dai**, Aditya Pawar, Rongchao Dong, Jun Yang, Youtao Zhang, and Xulong Tang. 2025. Using Reinforcement Learning to Guide Graph State Generation for Photonic Quantum Computers. The 52nd International Symposium on Computer Architecture (**ISCA'2025**).
 
 - Sheng Li, Qitao Tan, **Yue Dai**, Zhenglun Kong, Tianyu Wang, Jun Liu, Ao Li, Ninghao Liu, Yufei Ding, Xulong Tang, Geng Yuan. 2025. Mutual Effort for Efficiency: A Similarity‑based Token Pruning for Vision Transformers in Self‑Supervised Learning. The Thirteenth International Conference on Learning Representations (**ICLR'2025**).
 
