@@ -14,8 +14,8 @@ I am a final-year Ph.D. student in the Department of Computer Science at the Uni
 
 My research interests center on machine learning systems and accelerators, with a focus on efficient systems and robust algorithms for deep graph learning. Specifically, I work on accelerating Graph Neural Network-based deep graph learning models across diverse platforms and exploring the robustness of these applications against adversarial attacks.
 
-<p style="color: MediumSeaGreen; font-style: italic; font-weight: bold;">
-  🌟 I am actively seeking tenure-track faculty positions and research scientist positions in industry. Please kindly reach out to me regarding any potential opportunities.
+<p style="color: #C60C30; font-style: italic; font-weight: bold;">
+  🌟 I will be joining the Computer Science Department of Illinois Tech as a tenure-track assistant professor in Fall 2025. I am looking for multiple self-motivated PhD students to start in Winter/Spring/Fall 2026.
 </p>
 
 [CV](../files/Curriculum_Vitae.pdf)/[Email](yud42@pitt.edu)/[Google Scholar](https://scholar.google.com/citations?user=f3zYpYwAAAAJ&hl=en)/[Linkedin](https://www.linkedin.com/in/yue-dai-aa8a9012b/)
