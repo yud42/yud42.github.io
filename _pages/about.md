@@ -22,6 +22,7 @@ My research interests center on machine learning systems and accelerators, with 
 
 News
 ======
+_[05/2025]_ One paper is accepted by **ICML2025**. Thanks to all the collaborators!\
 _[01/2025]_ One paper is accepted by **ISCA2025**. Thanks to all the collaborators!\
 _[01/2025]_ One paper is accepted by **ASPLOS2025**. Thanks to all the collaborators!\
 _[01/2025]_ One paper is accepted by **ICLR2025**. Thanks to all the collaborators!\
@@ -35,6 +36,8 @@ Publications
 ======
 
 \* *co‑first author*
+
+- **Yue Dai***, Liang Liu*, Xulong Tang, Youtao Zhang, Jun Yang. 2025. MemStranding: Adversarial attacks on temporal graph neural networks. (The Thirteenth International Conference on Learning Representations (**ICML'2025**))
 
 - **Yue Dai**, Xulong Tang, Youtao Zhang. 2025. Cascade: A Dependency‑Aware Efficient Training Framework for Temporal Graph Neural Network. 2025 ACM International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS'2025**).
 
