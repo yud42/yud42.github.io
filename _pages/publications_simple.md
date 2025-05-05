@@ -10,7 +10,7 @@ sitemap: false
 
 \* *co‑first author*
 
-- **Yue Dai***, Liang Liu*, Xulong Tang, Youtao Zhang, Jun Yang. 2025. MemStranding: Adversarial attacks on temporal graph neural networks. (The Thirteenth International Conference on Learning Representations (**ICML'2025**))
+- **Yue Dai***, Liang Liu*, Xulong Tang, Youtao Zhang, Jun Yang. 2025. MemStranding: Adversarial attacks on temporal graph neural networks. The Thirteenth International Conference on Learning Representations (**ICML'2025**)
 
 - **Yue Dai**, Xulong Tang, Youtao Zhang. 2025. Cascade: A Dependency‑Aware Efficient Training Framework for Temporal Graph Neural Network. 2025 ACM International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS'2025**).
 
