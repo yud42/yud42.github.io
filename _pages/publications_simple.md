@@ -31,5 +31,3 @@ sitemap: false
 - Sheng Li, Geng Yuan, Yawen Wu, **Yue Dai**, Chao Wu, Alex K Jones, Jingtong Hu, Yanzhi Wang, Xulong Tang. 2024. EdgeOL: Efficient in‑situ Online Learning on Edge Devices. arXiv preprint arXiv:2401.16694.
 
 - Justin Brody, Samuel Barham, **Yue Dai**, Christopher Maxey, Donald Perlis, David Sekora, Jared Shamwell. 2016. Reasoning with grounded self‑symbols for human‑robot interaction. 2016 AAAI Fall Symposium Series.
-
-- Xuejun Liu, Haiying Luan, Wenbai Chen, **Yue Dai**, Jiandong Liu, Bo Lan. 2014. Electrical nonlinearity pre‑compensation for CO‑OFDM system. Optik, 125(2), 616‑619.
