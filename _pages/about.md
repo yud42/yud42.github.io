@@ -10,12 +10,12 @@ redirect_from:
 ---
 
 
-I am a final-year Ph.D. student in the Department of Computer Science at the University of Pittsburgh, advised by [Dr. Youtao Zhang](https://people.cs.pitt.edu/~zhangyt/) and [Dr. Xulong Tang](https://xzt102.github.io/).  I received my M.S. in Telecommunications from the University of Maryland and my B.E. in Electrical Engineering from Beihang University, China.
+I am a tenure-track assistant professor in the Department of Computer Science at Illinois Institute of Technology. I earned my Ph.D. in Computer Science from the University of Pittsburgh under the guidance of [Dr. Youtao Zhang](https://people.cs.pitt.edu/~zhangyt/) and [Dr. Xulong Tang](https://xzt102.github.io/). I received my M.S. in Telecommunications from the University of Maryland and my B.E. in Electrical Engineering from Beihang University, China.
 
-My research interests center on machine learning systems and accelerators, with a focus on efficient systems and robust algorithms for deep graph learning. Specifically, I work on accelerating Graph Neural Network-based deep graph learning models across diverse platforms and exploring the robustness of these applications against adversarial attacks.
+My research centers on **efficient, trustworthy computing systems for advanced graph-learning workloads.** I accelerate Graph Neural Networks across heterogeneous hardware—from edge devices to multi-GPU clusters—while safeguarding them against adaptive adversarial attacks. Looking ahead, I aim to design **scalable, secure infrastructure for complex graph learning applications**, including real-time dynamic-graph learning and low-latency agent-based systems. In parallel, I am developing full-stack co-designs of software and hardware that deliver efficiency and robustness to graph-aware AI algorithms, such as graph-augmented retrieval-and-generation (GraphRAG) and other GNN × LLM hybrids.
 
 <p style="color: #008080; font-style: italic;">
-  🌟 I will be joining the Computer Science Department of Illinois Tech as a tenure‑track assistant professor in Fall 2025. I am looking for multiple self‑motivated PhD students to start in Spring/Fall 2026.
+  🌟 I am recruiting self-motivated Ph.D. students to join my group in Spring/Fall 2026. 
 </p>
 
 [CV](../files/Curriculum_Vitae.pdf)/[Email](yud42@pitt.edu)/[Google Scholar](https://scholar.google.com/citations?user=f3zYpYwAAAAJ&hl=en)/[Linkedin](https://www.linkedin.com/in/yue-dai-aa8a9012b/)
