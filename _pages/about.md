@@ -15,7 +15,7 @@ I am a tenure-track assistant professor in the Department of Computer Science at
 My research focuses on **efficient and trustworthy computing systems for advanced graph learning and machine learning applications.** I accelerate Graph Neural Networks across heterogeneous hardware—from edge devices to multi-GPU clusters—while safeguarding them against adaptive adversarial attacks. Looking ahead, I aim to design **scalable infrastructure for complex graph learning applications**, including real-time dynamic graph learning and low-latency agent-based systems (e.g., Efficient Temporal Graph Neural Networks, Graph Matching, Graph-based AI Agents, etc). In parallel, I am developing full-stack software–hardware co-designs that enable **efficient solutions for graph-aware and general AI applications** (e.g., Efficient GraphRAG, LLM Serving, etc.). I am also investigating **adversarial robustness and system security of deep graph learning models**, including adversarial attacks and defenses on Temporal Graph Neural Networks.
 
 <p style="color: #008080; font-style: italic;">
-  🌟 <strong>I am recruiting self-motivated Ph.D. students to join my group in Spring/Fall 2026 who have interests in efficient graph deep learning, efficient LLM serving, or security in graph learning. </strong>strong>
+  🌟 <strong>I am recruiting self-motivated Ph.D. students to join my group in Spring/Fall 2026 who have interests in efficient graph deep learning, efficient LLM serving, or security in graph learning. </strong>
 </p>
 
 [CV](../files/Curriculum_Vitae.pdf)/[Email](yud42@pitt.edu)/[Google Scholar](https://scholar.google.com/citations?user=f3zYpYwAAAAJ&hl=en)/[Linkedin](https://www.linkedin.com/in/yue-dai-aa8a9012b/)
