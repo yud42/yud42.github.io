@@ -18,7 +18,7 @@ My research focuses on **efficient and trustworthy computing systems for advance
   🌟 <strong>I am recruiting self-motivated Ph.D. students to join my group in Spring/Fall 2026 who have interests in efficient graph deep learning, efficient LLM serving, or security in deep graph learning. </strong>
 </p>
 
-[CV](../files/Curriculum_Vitae.pdf)/[Email](yud42@pitt.edu)/[Google Scholar](https://scholar.google.com/citations?user=f3zYpYwAAAAJ&hl=en)/[Linkedin](https://www.linkedin.com/in/yue-dai-aa8a9012b/)
+[CV](../files/Curriculum_Vitae.pdf)/[Email](ydai21@illinoistech.edu)/[Google Scholar](https://scholar.google.com/citations?user=f3zYpYwAAAAJ&hl=en)/[Linkedin](https://www.linkedin.com/in/yue-dai-aa8a9012b/)
 
 News
 ======
