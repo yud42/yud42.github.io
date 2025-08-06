@@ -21,7 +21,7 @@ repository               : "yud42/yud42.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "yue_profile_photo.png"
+  avatar           : "yue_profile_photo.jpg"
   name             : "Yue Dai 「戴岳」"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor in IIT"
