@@ -7,7 +7,10 @@ sitemap: false
 ---
 
 ## Teaching Experience
+### Illinois Institute of Technology
+- **Spring 2026**: CS595-02 Efficient ML System
 
+### University of Pittsburgh
 - **Fall 2022**: Teaching Assistant, CS2210 COMPILER DESIGN
 - **Fall 2022**: Teaching Assistant, CS1622 INTRODUCTION TO COMPILER DESIGN
 - **Summer 2022**: Teaching Assistant, CS0007 INTRODUCTION TO COMPUTER PROGRAMMING
